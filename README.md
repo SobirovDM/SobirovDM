@@ -1,7 +1,7 @@
-# Hi there 👋 I'm SobirovDM
+# Hi there!
+Welcome to my GitHub page. I am Dilshod Sobirov, self-taught learner.
 
----
-
+<!--
 ## Here is my socials 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.linkedin.com/in/sobirovdm/" target="_blank">
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 ---
-
+-->
 <!--
 **SobirovDM/SobirovDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
